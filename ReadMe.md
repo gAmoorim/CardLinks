@@ -22,3 +22,6 @@ Este projeto tem como objetivo criar um **cartão de perfil com links clicáveis
 
 ```bash
 git clone https://github.com/seu-usuario/card-de-links.git
+
+```
+2. Abra o arquivo index.html no navegador.
